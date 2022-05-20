@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\ProjetosDEV\FileAndFileInfo\bin\Debug\net6.0\FileAndFileInfo.exe
+C:\Users\User\Desktop\ProjetosDEV\FileAndFileInfo\bin\Debug\net6.0\FileAndFileInfo.deps.json
+C:\Users\User\Desktop\ProjetosDEV\FileAndFileInfo\bin\Debug\net6.0\FileAndFileInfo.runtimeconfig.json
+C:\Users\User\Desktop\ProjetosDEV\FileAndFileInfo\bin\Debug\net6.0\FileAndFileInfo.dll
+C:\Users\User\Desktop\ProjetosDEV\FileAndFileInfo\bin\Debug\net6.0\FileAndFileInfo.pdb
+C:\Users\User\Desktop\ProjetosDEV\FileAndFileInfo\obj\Debug\net6.0\FileAndFileInfo.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\ProjetosDEV\FileAndFileInfo\obj\Debug\net6.0\FileAndFileInfo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\ProjetosDEV\FileAndFileInfo\obj\Debug\net6.0\FileAndFileInfo.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\ProjetosDEV\FileAndFileInfo\obj\Debug\net6.0\FileAndFileInfo.AssemblyInfo.cs
+C:\Users\User\Desktop\ProjetosDEV\FileAndFileInfo\obj\Debug\net6.0\FileAndFileInfo.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\ProjetosDEV\FileAndFileInfo\obj\Debug\net6.0\FileAndFileInfo.dll
+C:\Users\User\Desktop\ProjetosDEV\FileAndFileInfo\obj\Debug\net6.0\refint\FileAndFileInfo.dll
+C:\Users\User\Desktop\ProjetosDEV\FileAndFileInfo\obj\Debug\net6.0\FileAndFileInfo.pdb
+C:\Users\User\Desktop\ProjetosDEV\FileAndFileInfo\obj\Debug\net6.0\FileAndFileInfo.genruntimeconfig.cache
+C:\Users\User\Desktop\ProjetosDEV\FileAndFileInfo\obj\Debug\net6.0\ref\FileAndFileInfo.dll

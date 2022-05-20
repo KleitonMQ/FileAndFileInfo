@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\User\\Desktop\\ProjetosDEV\\FileAndFileInfo\\FileAndFileInfo.csproj": {}
+    "C:\\Users\\User\\Desktop\\ProjetosDEV\\FileAndFileInfo\\FileAndFileInfo.csproj": {}
   },
   "projects": {
-    "c:\\Users\\User\\Desktop\\ProjetosDEV\\FileAndFileInfo\\FileAndFileInfo.csproj": {
+    "C:\\Users\\User\\Desktop\\ProjetosDEV\\FileAndFileInfo\\FileAndFileInfo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\User\\Desktop\\ProjetosDEV\\FileAndFileInfo\\FileAndFileInfo.csproj",
+        "projectUniqueName": "C:\\Users\\User\\Desktop\\ProjetosDEV\\FileAndFileInfo\\FileAndFileInfo.csproj",
         "projectName": "FileAndFileInfo",
-        "projectPath": "c:\\Users\\User\\Desktop\\ProjetosDEV\\FileAndFileInfo\\FileAndFileInfo.csproj",
+        "projectPath": "C:\\Users\\User\\Desktop\\ProjetosDEV\\FileAndFileInfo\\FileAndFileInfo.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\User\\Desktop\\ProjetosDEV\\FileAndFileInfo\\obj\\",
+        "outputPath": "C:\\Users\\User\\Desktop\\ProjetosDEV\\FileAndFileInfo\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
